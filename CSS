@@ -1,0 +1,97 @@
+* {
+    font-family: Arial;
+}
+
+#junho {
+    position: absolute;
+    color: gray;
+    font-weight: 900;
+    left: 585px;
+    font-weight: bold;
+    top: 30px;
+    font-size: 25px;
+}
+
+#okok {
+    position: absolute;
+    text-align: center;
+    font-size: 10px;
+    left: 490px;
+    top: 340px;
+}
+
+div {
+    height: 40px;
+    width: 70px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    line-height: 40px;
+    box-shadow: 0px 0px 1px gray;
+    font-weight: bold;
+}
+   
+.linha1 {
+    background-color: rgb(230, 230, 230);
+    height: 20px; 
+    top: 100px; 
+    line-height: 20px; 
+}
+
+.linha2 {
+    top: 123px;
+}
+
+.linha3 {
+    top: 166px;
+}
+
+.linha4 {
+    top: 209px;
+}
+
+.linha5 {
+    top: 252px;
+}
+
+.linha6 {
+    top: 295px;
+}
+
+.coluna1 {
+    color: rgb(177, 1, 1);
+    background-color: rgb(255, 255, 103);
+    left: 400px;
+}
+
+.coluna2 {
+    left: 473px;
+}
+
+.coluna3 {
+    left: 546px;
+}
+
+.coluna4 {
+    left: 619px;
+}
+
+.coluna5 {
+    left: 692px;
+}
+
+.coluna6 {
+    left: 765px;
+}
+
+.coluna7 {
+    background-color: rgb(212, 212, 255);
+    color: blue;
+    left: 838px;
+}
+
+.verde {
+    color: rgb(0, 173, 0);
+}
